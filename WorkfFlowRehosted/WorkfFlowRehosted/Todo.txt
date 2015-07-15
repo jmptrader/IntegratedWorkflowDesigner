@@ -1,0 +1,2 @@
+﻿* add start page
+* load wf file in new document tab
